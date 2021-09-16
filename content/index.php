@@ -29,4 +29,4 @@ $hariBahasaIndonesia = hariIndo($hariBahasaInggris);
 	echo "Hari ini  {$hariBahasaIndonesia} <br>";
 	echo "Tanggal ". date('F j, Y'); echo "<br>"; 
 	echo "Jam ". date('H:i:s'); echo "<br>";
-	echo "Saya sedang belajar Docker dan DevOps bersama teman-teman DJKN";
+	echo "Saya sedang belajar Docker dan DevOps bersama teman-teman DJKN v2";
